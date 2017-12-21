@@ -1,0 +1,2 @@
+# DDPlaceholderTextView-Demo
+textView ,placeholder

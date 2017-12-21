@@ -1,2 +1,2 @@
 # DDPlaceholderTextView-Demo
-textView ,placeholder
+UITextView  placeholder  占位符
